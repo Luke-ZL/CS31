@@ -1,0 +1,5 @@
+﻿  keyboard.cpp
+d:\projects\project3\project3\keyboard.cpp(44): warning C4018: '>=': signed/unsigned mismatch
+d:\projects\project3\project3\keyboard.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> D:\projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> D:\projects\Project3\Debug\Project3.pdb (Partial PDB)
