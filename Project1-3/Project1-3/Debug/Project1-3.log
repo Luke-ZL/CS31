@@ -1,0 +1,5 @@
+﻿  compile_error.cpp
+d:\projects\project1-3\project1-3\compile_error.cpp(13): error C2065: 'numSurveyed': undeclared identifier
+d:\projects\project1-3\project1-3\compile_error.cpp(19): error C2065: 'numSurveyed': undeclared identifier
+d:\projects\project1-3\project1-3\compile_error.cpp(20): error C2065: 'numSurveyed': undeclared identifier
+d:\projects\project1-3\project1-3\compile_error.cpp(22): error C2146: syntax error: missing ';' before identifier 'cout'
